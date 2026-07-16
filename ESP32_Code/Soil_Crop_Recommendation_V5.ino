@@ -22,8 +22,8 @@ Cloud:  Firebase Realtime Database
 
 // ================= WIFI =================
 
-#define WIFI_SSID      "Soil"
-#define WIFI_PASSWORD  "1234567890"
+#define WIFI_SSID      "YOUR_WIFI_NAME"
+#define WIFI_PASSWORD  "YOUR_WIFI_PASSWORD"
 
 
 // ================= FIREBASE =================
