@@ -1,12 +1,11 @@
 # Images
 
-This folder contains project images.
+This folder contains screenshots and images related to the Smart Soil Analysis and Monitoring System.
 
-## Images
+## Contents
 
-- Mobile Application
+- System Architecture Diagram
+- Flutter Mobile Application Screenshots
+- Firebase Realtime Database
 - Smart Vehicle
-- Hardware Setup
-- Firebase Database
-- System Architecture
 - Project Poster
