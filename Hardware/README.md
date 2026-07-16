@@ -1,12 +1,12 @@
 # Hardware
 
-This folder contains the hardware design of the project.
+This folder contains the hardware components and wiring diagrams used in the project.
 
-## Components
+## Main Components
 
-- ESP32
-- DHT22
-- DS18B20
+- ESP32 Development Board
+- DHT22 Sensor
+- DS18B20 Sensor
 - HW-080 Soil Moisture Sensor
 - GPS NEO-6M
 - Smart RC Vehicle
